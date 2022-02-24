@@ -49,11 +49,10 @@ func main() {
 	numero++
 	numero += 15
 	fmt.Println(numero)
-
 	numero *= 3
 	numero /= 10
 	numero %= 3
-
 	fmt.Println(numero)
+	//  FIM DOS OPESERADORES UNÁRIOS
 
 }
