@@ -13,7 +13,7 @@ func main() {
 	variavel1++
 	fmt.Println(variavel1, variavel2)
 
-	//PONTEIRO
+	
 	var variavel3 int
 	var ponteiro *int
 
