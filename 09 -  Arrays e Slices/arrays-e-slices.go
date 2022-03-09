@@ -12,10 +12,10 @@ func main() {
 	array2 := [5]string{"Posição 1", "Posição 2", "Posição 3", "Posição 4", "Posição 5"}
 	fmt.Println(array2)
 
-	array3 := [...]int{1, 2, 3, 4, 5, 6, 7, 8}
+	array3 := [...]int{1, 2, 3, 4, 5, 6, 7, 8, 9}
 	fmt.Println(array3)
 
-	slice := []int{1, 2, 3, 4, 5, 6, 7, 8}
+	slice := []int{1, 2, 3, 4, 5, 6, 7, 8, 9}
 	fmt.Println(slice)
 
 	slice = append(slice, 9)

@@ -6,7 +6,7 @@ func main() {
 	numero := 10
 
 	if numero > 15 {
-		fmt.Println("\n O número é maior que 15")
+		fmt.Println("\n O número é maior que 15 \n")
 	} else {
 		fmt.Print("\n O número não é maior que 15")
 	}
