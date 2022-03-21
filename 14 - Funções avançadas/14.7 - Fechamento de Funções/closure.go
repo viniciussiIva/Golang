@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func clousure() func() {
-	texto := "Dentro da função clousure"
+	texto := "Dentro da funçaoes clousure"
 
 	funcao := func() {
 		fmt.Println(texto)
