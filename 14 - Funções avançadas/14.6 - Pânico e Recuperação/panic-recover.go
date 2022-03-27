@@ -23,6 +23,6 @@ func alunoEstaAProvado(n1, n2 float64) bool {
 
 func main() {
 	fmt.Println(alunoEstaAProvado(6, 7))
-	fmt.Println("Pós execução!")
+	fmt.Println("Pós execução")
 
 }
