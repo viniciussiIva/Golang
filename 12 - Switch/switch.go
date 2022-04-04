@@ -30,7 +30,7 @@ func dia_da_semana_2(numero int) string {
 	case numero == 2:
 		return "Segunda-Feira"
 	case numero == 3:
-		return "Terça-Feira"
+		return "Terça-Feiera"
 	case numero == 4:
 		return "Quarta-Feira"
 	case numero == 5:
