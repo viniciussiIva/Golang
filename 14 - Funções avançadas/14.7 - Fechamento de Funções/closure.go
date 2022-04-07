@@ -14,7 +14,7 @@ func clousure() func() {
 
 func main() {
 
-	texto := "Dentro da função main"
+	texto := "Dentro da main"
 	fmt.Println(texto)
 
 	funcaoNova := clousure()
